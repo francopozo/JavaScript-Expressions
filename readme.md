@@ -3,6 +3,7 @@ An After Effect expression is a programming Javascript language code that you in
 
 ![!\[alt text\](https://github.com/\[username\]/\[reponame\]/blob/\[branch\]/image.jpg?raw=true)](https://blog.motionisland.com/wp-content/uploads/2016/04/after-effect-expression-example.gif)
 
+<img src="https://blog.motionisland.com/wp-content/uploads/2016/04/after-effect-expression-example.gif">
 
 Over the years I have learn that after effects expressions can be very handy and powerful to make great motion graphics. It is amazing that with a few programming codes it can help make your animation moving organically. For those who have programmer brain which I don’t have 🙂 After effect Expression  can significantly improve your workflow when you create an animation and with complex codes you can
 actually achieve amazing motion graphics.
